@@ -141,7 +141,7 @@ if __name__ == "__main__":
         ['rainy', 'mild', 'high', 'TRUE', 'no']
     ]
 
-    # The rest of your code...
+   
 
 
     # Build the decision tree using the weather dataset
